@@ -4,8 +4,8 @@
 <title>My date</title>
 </head>
 <body>
-This is my basic HTML
-
+<h3>TIME AND DATE</h3>
+<p>
 <cfoutput>#now()#</cfoutput>
 </body>
 </html>
