@@ -9,24 +9,13 @@
 <cfoutput>
     
     #now()#</br>
-       #Date1 = now()#;</br>
-
-        #dateformat= DateFormat(Date1,  "mm-dd-yyyy")#</br>
-        #dateformat1= DateFormat(Date1, "m-d-yy")#</br>
-        #dateformat2=DateFormat(Date1," m-dd-yy")#</br>
-        #dateformat3=DateFormat(Date1,"full")#</br>
-        #dateformat4= DateFormat(Date1,"ddd,dd/mm/yyyy")#
-       
+        #dateFormat(now(),"mm-dd-yyyy")#</br>
+        #dateFormat(now(),"dddd-mm-dd-yyyy")#</br>
+        #dateFormat(now(),"mmmm-dddd,yyyy")#</br>
+        #dateFormat(now(),"full")#</br>
+        #dateFormat(now(),"ddd,dd/mm/yyyy")#</br>
         
-
-      
-    
-     
-        
-        
-
-
-       
+  
 </cfoutput>
 </body>
 </html>
