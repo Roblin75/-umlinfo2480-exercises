@@ -7,4 +7,9 @@
 		<li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=MathFunction">Math Function</a></li>
 		<li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=myArray">My array</a></li>
 		<li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=dsource">dsource</a></li>
+		<li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=myComponent">My component</a></li>
+		<li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=mydate">My date</a></li>
+		<li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=myForm">My Forms</a></li>
+		<li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=myObjects">My Objects</a></li>
+		<li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=myVariables">My Variables</a></li>
 </cfoutput>
